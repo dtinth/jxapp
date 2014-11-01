@@ -1,0 +1,28 @@
+{
+  "name": "jxapp",
+  "version": "1.0.0",
+  "description": "Access JXA App Instance and shims for alert, prompt and confirm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dtinth/jxapp.git"
+  },
+  "keywords": [
+    "JXA",
+    "OSA",
+    "Shim"
+  ],
+  "author": "Thai Pangsakulyanont <org.yi.dttvb@gmail.com> (http://dt.in.th/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtinth/jxapp/issues"
+  },
+  "homepage": "https://github.com/dtinth/jxapp",
+  "devDependencies": {
+    "browserify": "^6.2.0"
+  },
+  "dependencies": {}
+}
